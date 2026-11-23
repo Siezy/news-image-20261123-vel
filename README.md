@@ -16,3 +16,4 @@ python3 main.py   # copies entry.png to /output/entry.png — no network, determ
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>
+Anchor commit: 4f29f2b0694ad424e60101b50ef9cb446ad53f66
