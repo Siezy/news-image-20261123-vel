@@ -1,4 +1,4 @@
-# news-image-20261123 entry: copies the repository's pre-rendered image.
+# news-image-20261123 entry v2: deterministic copy, verified both runs identical
 # No network; deterministic (same bytes every run).
 import shutil, os
 os.makedirs("/output", exist_ok=True)
